@@ -5,7 +5,7 @@ TikTok, YouTube, X, Reddit and Telegram — plus the wider landscape from Bluesk
 Wikimedia and Snapchat to alt-tech platforms — built around the EU Digital Services Act
 (Article 40) routes available to academics.
 
-**Methlab — Vrije Universiteit Brussel** · Version 1.2 · October 2026
+**Methlab — Vrije Universiteit Brussel** · Version 1.3 · October 2026
 
 All facts were verified against live official sources in October 2026, and the site is
 monitored with Claude: changes are checked and verified against official sources before
